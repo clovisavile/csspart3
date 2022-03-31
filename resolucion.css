@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: #332F29;
+}
+
+nav {
+    background-color: rgb(233, 198, 122);
+    float: none;
+    width: 100%;
+
+}
+
+nav ul {
+    color: black;
+    width: 100%;
+    padding: 0.5em;
+    margin: 0;
+
+}
+
+a {
+    color: black;
+}
+
+nav ul li a {
+    padding: 0.5em;
+    display: block;
+    margin-left: 2%;
+}
+
+section {
+    border-top: solid black 0.1em;
+    padding: 0.5em;
+    margin-left: 0%;
+    float: none;
+    width: 100%;
+}
+
+aside {
+    border-top: solid black 0.1em;
+    float: none;
+    width: 100%;
+    padding: 0.5em;
+}
